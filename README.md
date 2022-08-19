@@ -54,7 +54,7 @@ end
 
 With Active Record, we've seen how simple it is to add data to a database by
 using built-in methods that will write SQL code for us. We _could_ create a new
-record in the `games` table and by opening up a console session and using the
+record in the `games` table by opening up a console session and using the
 `.create` method. The command would look something like this:
 
 ```rb
